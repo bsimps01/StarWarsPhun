@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="21C52" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="StarWarsEventData" representedClassName="StarWarsEventData" syncable="YES" codeGenerationType="class">
+        <attribute name="starWarsDate" optional="YES" attributeType="String"/>
+        <attribute name="starWarsDescription" optional="YES" attributeType="String"/>
+        <attribute name="starWarsImage" optional="YES" attributeType="Binary"/>
+        <attribute name="starWarsLocation" optional="YES" attributeType="String"/>
+        <attribute name="starWarsTitle" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="StarWarsEventData" positionX="-63" positionY="-18" width="128" height="104"/>
+    </elements>
+</model>
